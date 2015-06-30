@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hdpfans.xbmc-addons-chinese" name="HDPfans中文插件库" version="1.1.3" provider-name="HDPfans">
+	<extension point="xbmc.addon.repository" name="HDPfans Add-on Repository">
+		<info compressed="false">http://xbmc.hdpfans.com/addons.xml</info>
+		<checksum>http://xbmc.hdpfans.com/addons.xml.md5</checksum>
+		<datadir zip="true">http://xbmc.hdpfans.com/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from HDPfans repository</summary>
+		<summary lang="zh">从HDPfans脚本库安装XBMC扩展功能</summary>
+		<description>Download and install add-ons for HDPfans addon repository.If you are interested in XBMC plugins, please join us: www.hdpfans.com.</description>
+		<description lang="zh">从HDPfans插件库下载安装XBMC扩展功能模块。如果您对xmbc插件开发感兴趣请加入我们：www.hdpfans.com。</description>
+		<disclaimer>All media is collected from Internet.</disclaimer>
+		<disclaimer lang="zh">您所看到的所有内容均来自互联网聚合</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
